@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Physics-Based and Learned Observation Models for Mobile Source Localization in Turbulent Plumes"
+authors:
+  - family-names: Wang
+    given-names: Qi
+    affiliation: San Diego State University
+  - family-names: Chen
+    given-names: Jun
+    affiliation: San Diego State University
+year: 2026
+license: MIT
+doi: "10.5281/zenodo.23991624"
+repository-code: "https://github.com/QiWang-SDSU/physics-constrained-source-localization"
+type: software

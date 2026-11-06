@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# data and outputs (published on Zenodo, not in git)
+data/
+out/
+logs/
+figures/
+docs/research/data/
+figure_data/
+networks/
+episodes/
+dns/
+*.npz
+*.npy
+*.pt
+
+# secrets
+.env
+*.pem
+*_token*
+id_*
+.netrc
+credentials*
