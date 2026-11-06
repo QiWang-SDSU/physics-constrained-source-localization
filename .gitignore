@@ -10,7 +10,7 @@ venv/
 data/
 out/
 logs/
-figures/
+/figures/
 docs/research/data/
 figure_data/
 networks/
